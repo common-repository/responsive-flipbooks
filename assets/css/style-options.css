@@ -1,0 +1,8 @@
+.flipbooks-wrapper {
+  margin-left: 10px;
+}
+.flipbooks-wrapper li.flipbook {
+  padding: 10px;
+  float: left;
+  cursor: pointer;
+}
